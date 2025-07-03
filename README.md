@@ -2,11 +2,24 @@
 I executed this project during my Data Analysis training at DSA.
 
 # Project Topic
-Amazon case study 
+Data Analysis Report on Amazon Product Reviews
 
-## Project Description
-The data set contained details of different products, their categories, product id, review, actual price, discounted price, discount percentage and rating.
-My responsibility was to clean the data set, analyze the clean data set and make simple yet analytical visualizations that can help in decision making.
+## Introduction
+This report analyzes customers' review of different products, effect of discount on the purchase of products to identify trebds, areas of improvement and product enhancement.
 
-## Tool used
-I analysed the dara set with MS Excel.
+## Objective
+- Determine products with the highest snd lowest rating.
+- Track the relationship between discount percentage and rating.
+- Determine the correlation between price of product and review.
+
+## Methodology
+Data was analyzed using pivot tables and charts in Excel.
+
+## Findings
+
+## Conclusion
+
+## Reference
+
+## Author
+Report by Aderemi Orimoogunje - July, 2025
