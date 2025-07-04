@@ -17,10 +17,8 @@ This report summarizes the insight from Amazon sales data, focusing on customer 
 Data was cleaned and analyzed using pivot tables and charts in Excel.
 I grouped prices of produtcs into ranges using: =IFS(E2<1000, "$0 - $999", E2<5000, "$1K - $4.9K", E2<10000,"$5K - $9.9K", E2<50000,"$10K-$49.9", E2<100000,"$50K-$99.9K", E2<200000, "$100K - above")
 I visualized the trends with:
-- Bar charts ![image](https://github.com/user-attachments/assets/53559980-7538-4d38-a1da-2091ad255301)
-             ![image](https://github.com/user-attachments/assets/450fc999-4268-4cd0-b017-f6901e4792b5)
-             ![image](https://github.com/user-attachments/assets/9cae1dec-66ca-4400-9b80-5240f9705301)
-- Pie chart (![image](https://github.com/user-attachments/assets/87efc69f-0e6b-4d9c-987a-89852b645d5d)
+- Bar charts 
+- Pie chart
 
 ## Findings
 ### Top 5 Categories with Highest Potential Revenue
