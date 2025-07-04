@@ -59,12 +59,8 @@ Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCable
 
 - Spigen EZ Fit Tempered Glass Screen Protector for iPhone 14 Pro Max - 2 Pack (Sensor Protection)
 
-
-
-
-## Conclusion
-
 ## Reference
+
 
 ## Author
 Report by Aderemi Orimoogunje - July, 2025
