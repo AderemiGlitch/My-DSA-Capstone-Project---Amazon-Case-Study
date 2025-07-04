@@ -16,6 +16,7 @@ This report summarizes the insight from Amazon sales data, focusing on customer 
 ## Methodology
 Data was cleaned and analyzed using pivot tables and charts in Excel.
 I grouped prices of produtcs into ranges using: =IFS(E2<1000, "$0 - $999", E2<5000, "$1K - $4.9K", E2<10000,"$5K - $9.9K", E2<50000,"$10K-$49.9", E2<100000,"$50K-$99.9K", E2<200000, "$100K - above")
+
 I visualized the trends with:
 - Bar charts 
 - Pie chart
