@@ -1,4 +1,4 @@
-# My-DSA-Capstone-Project-Amazon-Case-Study
+# DSA-Project-Amazon-Case-Study
 I executed this project during my Data Analysis training at DSA.
 
 # Project Topic
